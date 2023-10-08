@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Luiz Mauricio Freitas Peres",
+  "photo": "https://avatars.githubusercontent.com/u/13932000?v=4",
+  "job": "Developer",
+  "location": "Paiçandú - PR",
+  "phone": "(44) 92001-1420",
+  "email": "luizbarruga@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -16,8 +16,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
         "name": "React",
@@ -34,45 +34,37 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Comprometimento",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Flexibilidade"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Técnico)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/luizpkey/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/luizpkey/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor Harbour",
+      "period": "2010 - até o momento",
+      "description": "Em todos esses anos nessa industria vital, trabalhei com profissionais exepcionais que me ensinaram que não depende da linguagem, mas sim, sempre é possível inovar e extrair algo a mais do código."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "O futuro reserva...",
+      "period": "indefinido",
+      "description": "Trazer inovação e estar ciente que irei aprender mais, pois temos a cada dia mais informação.(Fear of Missing Out) Eu sei que não vou saber tudo, porém quero ter a opção de escolher o que não quero perder."
     }
   ]
 }
